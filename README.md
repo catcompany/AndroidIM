@@ -9,27 +9,13 @@ Support
 There is no support given anymore for this project.
 
 
-
-
-
-
-
-
-
-
-
-
-
 AndroidIM
 
+## Android Instant Messaging Application
 
 
 
-##Android Instant Messaging Application
-
-
-
-###Features
+### Features
 
     User registration
     User authentication
@@ -43,7 +29,7 @@ AndroidIM
 
 
 
-###How to:
+### How to:
 
     WebAPI:
         There is a folder whose name is "android-im_WEBAPI", copy all files under "android-im" folder to a folder in            
@@ -62,7 +48,7 @@ AndroidIM
     Then run your application in Eclipse with ADT plugin.
     it can be learned how to install Android SDK and ADT plugin.
 
-###Support:
+### Support:
 
     Support now is given by Pirngruber Dominik (d.pirngruber@gmail.com)
 
